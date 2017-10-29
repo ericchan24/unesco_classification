@@ -1,6 +1,6 @@
 # Classifying UNESCO World Heritage Sites  
 ---
-I used a Support Vector Machine (SVM) model to classify UNESCO World Heritage Sites. The model was built using data from UNESCO, Wikipedia, the US National Park Service, the Canadian National Park Service, and TripAdvisor.  
+I used a support vector machine (SVM) model to classify UNESCO World Heritage Sites. The model was built using data from UNESCO, Wikipedia, the US National Park Service, the Canadian National Park Service, and TripAdvisor.  
 
 I used a PostgreSQL database on an AWS cloud server to store my data.  
 
