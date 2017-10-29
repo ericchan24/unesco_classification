@@ -11,4 +11,4 @@ There is are 3 notebooks in this repository:
 2. Cleaning the data  
 3. Modeling  
 
-Here is a link to the [blog post](https://ericchan24.squarespace.com/blog/2017/10/28/as) about the project.
+This is my [blog post](https://ericchan24.squarespace.com/blog/2017/10/28/classifyingworldheritagesites) on the project.
