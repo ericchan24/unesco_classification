@@ -4,7 +4,7 @@ I used a support vector machine (SVM) model to classify UNESCO World Heritage Si
 
 I used a PostgreSQL database on an AWS cloud server to store my data.  
 
-I build my model using skLearn. The final SVM model improved on an initial baseline F1 score of 48% to 62%.  
+I build my model using scikit-learn. The final SVM model improved on an initial baseline F1 score of 48% to 62%.  
 
 There are 3 notebooks in this repository:  
 1. Get CSVs from PostgreSQL  
